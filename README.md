@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Graduate** and
 ---
 
 ## 📊 GitHub Stats
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesbeech2003&show_icons=true&theme=radical)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesbeech123&show_icons=true&theme=radical)
 
 ---
 
